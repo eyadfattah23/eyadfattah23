@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eyadfattah23
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently learning machine learning / AI and data science 
-- 💞️ I’m looking to collaborate on a machine learning / AI model 
+- 🌱 I’m currently learning machine learning and data science 
+- 💞️ I’m looking to collaborate on a machine learning projects
 - 📫 How to reach me --> whatsapp:201060587558, email:eyadabdelfattah4@gmail.com
 
 <!---
