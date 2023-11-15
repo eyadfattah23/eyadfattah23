@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyadfattah23
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently an alx software engineering cohort_13 student 
+- 🌱 I’m currently an alx software engineering cohort_15 student 
 - 💞️ I’m looking forward to collaborating on machine learning projects
 - 📫 How to reach me --> email:eyadabdelfattah4@gmail.com
 
