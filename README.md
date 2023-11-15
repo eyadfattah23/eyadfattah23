@@ -12,7 +12,7 @@
 - 🏃 persuing a bachelor degree in Computers and Control Engineering
 - 🐍 a super pyhton programmer
 - 🐱‍💻 currently learning back-end with python 
-- 💞️ passionate about data science and back-end, and teaching programming to people
+- 💞️ passionate about data science, back-end and teaching programming to people
 - 🥅 Eyad's goal is to eventually use his software skills to start his own tech startup.
 - Feel free to reach out if you have any questions, collaborations, or opportunities!
 - 📫 How to reach me --> eyadabdelfattah4@gmail.com
