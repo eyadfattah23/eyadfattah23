@@ -8,9 +8,9 @@
 
 #### Eyad is
 
-- 👀 a dedicated cohort 15 ALX software engineering student at Holberton school
+- 👀 a dedicated ALX software engineering student at Holberton school
 - 🏃 persuing a bachelor degree in Computers and Control Engineering
-- 🐍 a super pyhton programmer
+- 🐍 a python in pyhton programming
 - 🐱‍💻 currently learning back-end with python 
 - 💞️ passionate about data science, back-end and teaching programming to people
 - 🥅 Eyad's goal is to eventually use his software skills to start his own tech startup.
